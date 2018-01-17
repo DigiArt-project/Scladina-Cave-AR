@@ -9,6 +9,7 @@ TagManager:
   - xpBar
   - AudioSource
   - AudioSourceAudible
+  - RotationIcon
   layers:
   - Default
   - TransparentFX
